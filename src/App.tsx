@@ -427,7 +427,7 @@ function App() {
               Email: info@noruwaedokpolo.com.ng
             </p>
             <p className="text-sm text-gray-400">
-              Phone: +234 803 682 9993
+              Phone: +234 803 682 1993
             </p>
           </div>
           
