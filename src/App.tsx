@@ -435,7 +435,7 @@ function App() {
             <h3 className="font-bold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
               <a href="https://www.linkedin.com/in/noruwa/" className="text-gray-400 hover:text-white">LinkedIn</a>
-              <a href="#" className="text-gray-400 hover:text-white">Twitter</a>
+              <a href="https://x.com/noruwa" className="text-gray-400 hover:text-white">Twitter</a>
               <a href="https://www.facebook.com/share/19npTfM35n/?mibextid=wwXIfr" className="text-gray-400 hover:text-white">Facebook</a><br>
 							<a href="https://www.instagram.com/noruwaedokpolo/?hl=en" className="text-gray-400 hover:text-white">Instagram</a>
 							<a href="https://www.youtube.com/@RoTaWiN" className="text-gray-400 hover:text-white">Youtube</a>
