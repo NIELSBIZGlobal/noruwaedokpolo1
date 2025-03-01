@@ -58,7 +58,7 @@ function App() {
       </header>
 
       {/* Hero Section */}
-      <section className="relative min-h-screen bg-cover bg-center pt-16" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')" }}>
+      <section className="relative min-h-screen bg-cover bg-center pt-16" style={{ backgroundImage: "url('https://i.imgur.com/RiulqPx.jpeg')" }}>
         <div className="absolute inset-0 bg-black bg-opacity-60"></div>
         <div className="relative z-10 h-full max-w-6xl mx-auto flex flex-col lg:flex-row items-center justify-between px-4 sm:px-6 py-16 md:py-24 pt-24 md:pt-32">
           {/* Left side - Hero text */}
