@@ -58,7 +58,7 @@ function App() {
       </header>
 
       {/* Hero Section */}
-      <section className="relative min-h-screen bg-cover bg-center pt-16" style={{ backgroundImage: "url('https://i.imgur.com/RiulqPx.jpeg')" }}>
+      <section className="relative min-h-screen bg-cover bg-center pt-16" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')" }}>
         <div className="absolute inset-0 bg-black bg-opacity-60"></div>
         <div className="relative z-10 h-full max-w-6xl mx-auto flex flex-col lg:flex-row items-center justify-between px-4 sm:px-6 py-16 md:py-24 pt-24 md:pt-32">
           {/* Left side - Hero text */}
@@ -434,9 +434,12 @@ function App() {
           <div>
             <h3 className="font-bold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-white">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/noruwa/" className="text-gray-400 hover:text-white">LinkedIn</a>
               <a href="#" className="text-gray-400 hover:text-white">Twitter</a>
-              <a href="#" className="text-gray-400 hover:text-white">Facebook</a>
+              <a href="https://www.facebook.com/share/19npTfM35n/?mibextid=wwXIfr" className="text-gray-400 hover:text-white">Facebook</a>
+							<a href="https://www.instagram.com/noruwaedokpolo/?hl=en" className="text-gray-400 hover:text-white">Instagram</a>
+							<a href="https://www.youtube.com/@RoTaWiN" className="text-gray-400 hover:text-white">Youtube</a>
+							<a href="https://selar.com/m/noruwa-joseph-edokpolo1" className="text-gray-400 hover:text-white">Ecommerce</a>
             </div>
           </div>
         </div>
